@@ -31,5 +31,5 @@ def bulk_rename(folder_path, file_extension='.jpeg'):
         print(f"Renamed: {old_file_name} -> {new_file_name}")
 
 if __name__ == "__main__":
-    folder_path = r'C:/Users/user/Desktop/Create_Images_Using_Video/Task 3'
+    folder_path = r' your folder's absolute path'
     bulk_rename(folder_path)
