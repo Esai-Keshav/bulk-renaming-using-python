@@ -1,4 +1,4 @@
-# :sparkles: BulkRenameMagic :sparkles:
+# :sparkles: Bulk Renamer :sparkles:
 
 A Python script for enchantingly bulk renaming files! :mage:
 
